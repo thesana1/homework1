@@ -9,8 +9,8 @@ body {
 
 .x1 {
   background-color: #ecf0f1;
-  width: 500px;
-  height: 400px;
+  width: 400px;
+  height: 250;
   border-radius: 20px;
   transition: all 0.3s ease; 
   margin: auto;
