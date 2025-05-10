@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background: linear-gradient(to right, #2c3e50, #4ca1af);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #ecf0f1;
+  padding: 0px;
+  text-align: center;
+}
+
+.x1 {
+  background-color: #ecf0f1;
+  width: 500px;
+  height: 400px;
+  border-radius: 20px;
+  transition: all 0.3s ease; 
+  margin: auto;
+  margin-top: 250px;
+  border: 2.5px solid transparent;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0); 
+}
+
+.x1:hover {
+  border-color: black;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  color: #4ca1af;
+  transition: 0.3s ease;
+}
